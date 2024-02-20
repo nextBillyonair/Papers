@@ -2,6 +2,8 @@
 Repository for all of my papers &amp; preprints
 
 
+# License
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
